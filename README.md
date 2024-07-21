@@ -11,4 +11,4 @@ This repository is a collection of websites and online resources that have been 
 Feel free to submit your own pull requests with websites and resources that have helped you in your IT journey. Let's build a comprehensive resource hub together.
 
 
-[https://quickref.me/](https://quickref.me "Quick reference Cheat Sheet")
+[https://quickref.me/](https://quickref.me "Quick reference Cheat Sheet") __ Quick reference Cheat Sheet
