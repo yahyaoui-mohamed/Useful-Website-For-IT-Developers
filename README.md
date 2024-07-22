@@ -74,3 +74,5 @@ Feel free to submit your own pull requests with websites and resources that have
  31. [https://github.com/leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts "33 Concepts Every JavaScript Developer Should Know") — 33 Concepts Every JavaScript Developer Should Know
  
  32. [https://sql.sh/](https://sql.sh/ "SQL Tutorials") — SQL Tutorials
+ 
+ 33. [https://github.com/huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models "Pytroch Models") — Pytroch Image Models
