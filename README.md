@@ -76,3 +76,7 @@ Feel free to submit your own pull requests with websites and resources that have
  32. [https://sql.sh/](https://sql.sh/ "SQL Tutorials") — SQL Tutorials
  
  33. [https://github.com/huggingface/pytorch-image-models](https://github.com/huggingface/pytorch-image-models "Pytroch Models") — Pytroch Image Models
+
+ 34. [https://www.w3schools.com/](https://www.w3schools.com/ "W3schools - Online Web Tutorials") — W3schools - Online Web Tutorials
+
+ 35. [https://github.com/alexngn/intro-to-system-design](https://github.com/alexngn/intro-to-system-design "Introduction to System Design") — Introduction to System Design
