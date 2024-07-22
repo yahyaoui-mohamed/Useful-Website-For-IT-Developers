@@ -70,3 +70,7 @@ Feel free to submit your own pull requests with websites and resources that have
  29. [https://leetcode.com/](https://leetcode.com/ "LeetCode - Online Programming Learning Platform") — LeetCode - Online Programming Learning Platform
 
  30. [https://codeforces.com/](https://codeforces.com/ "Online Programming Contests") — Online Programming Contests
+ 
+ 31. [https://github.com/leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts "33 Concepts Every JavaScript Developer Should Know") — 33 Concepts Every JavaScript Developer Should Know
+ 
+ 32. [https://sql.sh/](https://sql.sh/ "SQL Tutorials") — SQL Tutorials
